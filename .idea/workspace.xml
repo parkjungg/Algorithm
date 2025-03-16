@@ -40,6 +40,7 @@
     "Application.Num11053.executor": "Run",
     "Application.Num11723.executor": "Run",
     "Application.Num11724.executor": "Run",
+    "Application.Num1259.executor": "Run",
     "Application.Num1541.executor": "Run",
     "Application.Num1546.executor": "Run",
     "Application.Num15650.executor": "Run",
@@ -50,6 +51,7 @@
     "Application.Num2178.executor": "Run",
     "Application.Num2231.executor": "Run",
     "Application.Num2292.executor": "Run",
+    "Application.Num28702.executor": "Run",
     "Application.Num30802.executor": "Run",
     "Application.Num31403.executor": "Run",
     "Application.Num4153.executor": "Run",
@@ -84,5 +86,16 @@
       <updated>1741259564717</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
