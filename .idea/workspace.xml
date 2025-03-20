@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="822c54d0-f3b9-46ff-9640-c8134239d4ef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Silver/Num11726.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Silver/Num11726.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
     "Application.Num11053.executor": "Run",
     "Application.Num11723.executor": "Run",
     "Application.Num11724.executor": "Run",
+    "Application.Num11727.executor": "Run",
     "Application.Num11866.executor": "Run",
     "Application.Num1259.executor": "Run",
     "Application.Num1541.executor": "Run",
@@ -49,6 +51,8 @@
     "Application.Num15652.executor": "Run",
     "Application.Num15829.executor": "Run",
     "Application.Num1620.executor": "Run",
+    "Application.Num1654.executor": "Run",
+    "Application.Num17219.executor": "Run",
     "Application.Num18110.executor": "Run",
     "Application.Num1874.executor": "Run",
     "Application.Num18870.executor": "Run",
