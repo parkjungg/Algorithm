@@ -3,7 +3,6 @@ package Silver;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.LinkedList;
 import java.util.Scanner;
 
 // Silver 3 풍선 터뜨리기
