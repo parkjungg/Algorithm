@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="822c54d0-f3b9-46ff-9640-c8134239d4ef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Silver/Num2346.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Silver/Num2346.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +80,7 @@
     "Application.Num31403.executor": "Run",
     "Application.Num4153.executor": "Run",
     "Application.Num4949.executor": "Run",
+    "Application.Num4963.executor": "Run",
     "Application.Num9375.executor": "Run",
     "Application.Num9461.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
