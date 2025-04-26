@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="822c54d0-f3b9-46ff-9640-c8134239d4ef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Silver/Num1926.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/Silver/Num1926.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +55,10 @@
     "Application.Num11866.executor": "Run",
     "Application.Num1259.executor": "Run",
     "Application.Num12851.executor": "Run",
+    "Application.Num1325.executor": "Run",
     "Application.Num1389.executor": "Run",
     "Application.Num1406.executor": "Run",
+    "Application.Num14940.executor": "Run",
     "Application.Num1541.executor": "Run",
     "Application.Num1546.executor": "Run",
     "Application.Num15650.executor": "Run",
@@ -78,6 +81,7 @@
     "Application.Num1904.executor": "Run",
     "Application.Num1926.executor": "Run",
     "Application.Num1932.executor": "Run",
+    "Application.Num1991.executor": "Run",
     "Application.Num21736.executor": "Run",
     "Application.Num2178.executor": "Run",
     "Application.Num2193.executor": "Run",
