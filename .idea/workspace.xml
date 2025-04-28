@@ -36,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Num1002.executor": "Run",
+    "Application.Num10026.executor": "Run",
     "Application.Num1012.executor": "Run",
     "Application.Num1018.executor": "Run",
     "Application.Num1021.executor": "Run",
@@ -108,6 +109,7 @@
     "Application.Num5567.executor": "Run",
     "Application.Num7562.executor": "Run",
     "Application.Num7576.executor": "Run",
+    "Application.Num7662.executor": "Run",
     "Application.Num9375.executor": "Run",
     "Application.Num9461.executor": "Run",
     "Application.Num9465.executor": "Run",
